@@ -13,4 +13,3 @@ catboost
 lightgbm
 joblib
 streamlit
-plot_roc_curve
