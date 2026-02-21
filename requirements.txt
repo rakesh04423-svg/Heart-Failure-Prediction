@@ -12,4 +12,5 @@ xgboost
 catboost
 lightgbm
 joblib
-streamlit
+streamlit>=1.32.0
+
